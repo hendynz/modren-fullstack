@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Modren Fullstack
 
-You can use the [editor on GitHub](https://github.com/hendynz/modren-fullstack/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to **Modren Fullstack**, a guide to becoming a full stack developer in 2021 and beyond. The skills and knowledge required for such a role can seem daunting, but can be built up over time without overwhelming you. We can also avoid a lot of techniques and tools that have been and gone over the decades, to focus on the here and now.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Overview
 
-### Markdown
+What will this guide cover? Here's a brief overview.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hendynz/modren-fullstack/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Fundamentals of how the web works
+2. The Unix way
+3. Basic tools of the trade
+4. Static pages
+5. Local development
+6. A static site
+7. Basic deployment
+8. Front-end compilation
+9. A dynamic site
+10. Requests and responses
+11. Databases
+12. Sessions
+13. Backend frameworks
+14. Testing
+15. Virtual servers
+16. More tools of the trade
+17. Security
+18. Automation
+19. Deployment
+20. APIs
+21. Frontend Javascript
+22. Frontend frameworks
+23. Projects and Teams
+24. UX and Typography
