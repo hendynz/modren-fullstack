@@ -33,4 +33,5 @@ What will this guide cover? Here's a brief overview.
 25. Frontend Javascript
 26. Frontend frameworks
 27. Projects and Teams
-28. UX and Typography
+28. Linting and code quality
+29. UX and Typography
