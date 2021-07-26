@@ -28,8 +28,9 @@ What will this guide cover? Here's a brief overview.
 20. Security
 21. Automation
 22. Deployment
-23. APIs
-24. Frontend Javascript
-25. Frontend frameworks
-26. Projects and Teams
-27. UX and Typography
+23. CMSs
+24. APIs
+25. Frontend Javascript
+26. Frontend frameworks
+27. Projects and Teams
+28. UX and Typography
