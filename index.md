@@ -9,24 +9,27 @@ What will this guide cover? Here's a brief overview.
 1. Fundamentals of how the web works
 2. The Unix way
 3. Basic tools of the trade
-4. Static pages
-5. Local development
-6. A static site
-7. Basic deployment
-8. Front-end compilation
-9. A dynamic site
-10. Requests and responses
-11. Databases
-12. Sessions
-13. Backend frameworks
-14. Testing
-15. Virtual servers
-16. More tools of the trade
-17. Security
-18. Automation
-19. Deployment
-20. APIs
-21. Frontend Javascript
-22. Frontend frameworks
-23. Projects and Teams
-24. UX and Typography
+4. Source control
+5. Static pages
+6. Local development
+7. A static site
+8. Basic deployment
+9. Packages and environments
+10. Front-end compilation
+11. Branching and merging
+12. A dynamic site
+13. Requests and responses
+14. Databases
+15. Sessions
+16. Backend frameworks
+17. Testing
+18. Virtual servers
+19. More tools of the trade
+20. Security
+21. Automation
+22. Deployment
+23. APIs
+24. Frontend Javascript
+25. Frontend frameworks
+26. Projects and Teams
+27. UX and Typography
