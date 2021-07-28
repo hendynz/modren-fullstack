@@ -35,4 +35,6 @@ What will this guide cover? Here's a brief overview.
 27. Frontend frameworks
 28. Projects and Teams
 29. Linting and code quality
-30. UX and Typography
+30. Automation and Pipelines
+31. 12 Factor Apps
+32. UX and Typography
