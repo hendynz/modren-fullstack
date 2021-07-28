@@ -23,15 +23,16 @@ What will this guide cover? Here's a brief overview.
 15. Sessions
 16. Backend frameworks
 17. Testing
-18. Virtual servers
-19. More tools of the trade
-20. Security
-21. Automation
-22. Deployment
-23. CMSs
-24. APIs
-25. Frontend Javascript
-26. Frontend frameworks
-27. Projects and Teams
-28. Linting and code quality
-29. UX and Typography
+18. Docker
+19. Virtual servers
+20. More tools of the trade
+21. Security
+22. Automation
+23. Deployment
+24. CMSs
+25. APIs
+26. Frontend Javascript
+27. Frontend frameworks
+28. Projects and Teams
+29. Linting and code quality
+30. UX and Typography
