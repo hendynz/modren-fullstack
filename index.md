@@ -23,7 +23,7 @@ What will this guide cover? Here's a brief overview.
 15. Sessions
 16. Backend frameworks
 17. Testing
-18. Docker
+18. [Docker](18_docker.html)
 19. Virtual servers
 20. More tools of the trade
 21. Security
